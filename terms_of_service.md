@@ -1,1 +1,1 @@
-terms_of_service.txt
+terms_of_service.md
